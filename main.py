@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 TOKEN = os.environ.get("BOT_TOKEN")
 VIP_LINK = os.environ.get("VIP_LINK", "https://t.me/")
-WAVE_NUMBER = os.environ.get("WAVE_NUMBER", "0700000000")
+WAVE_NUMBER = os.environ.get("WAVE_NUMBER", "0777877044")
 PRIX = 500
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
